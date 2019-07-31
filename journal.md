@@ -7,3 +7,5 @@ this is ... (Bazinet, 2019)
 
 RESULTS:
 Bla Bla
+
+<add figure 1 here>
