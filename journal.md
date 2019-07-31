@@ -1,6 +1,6 @@
 This is the Intro
 
-CoAuthor: Simone de Beauvoir
+CoAuthor: Simone de Beauvoir and JP
 
 INTRODUCTION
 this is ... (Bazinet, 2019)
