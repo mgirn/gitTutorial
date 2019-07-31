@@ -9,3 +9,5 @@ RESULTS:
 Bla Bla
 
 <add figure 1 here>
+
+CONCLUSION
