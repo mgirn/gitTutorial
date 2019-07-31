@@ -1,4 +1,4 @@
 This is the Intro
 
 INTRODUCTION
-this is ...
+this is ... (Bazinet, 2019)
